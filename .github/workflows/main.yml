@@ -4,4 +4,4 @@ jobs:
   Hello-World:
     runs-on: ubuntu-22.04
     steps:
-      - run: echo "Hello world!" >> teste-actions.md
+      - run: echo "Hello world!"
